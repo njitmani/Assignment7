@@ -1,2 +1,4 @@
 [2024-03-29 20:51:53,528] INFO in main: Created directory: qr_codes
 [2024-03-29 20:51:53,536] INFO in main: QR code saved to qr_codes/qr_code_20240329205153.png
+[2024-03-29 20:54:22,263] INFO in main: Directory qr_codes already exists
+[2024-03-29 20:54:22,271] INFO in main: QR code saved to qr_codes/qr_code_20240329205422.png
