@@ -1,14 +1,14 @@
-QR Code Generator
+# QR Code Generator
 
 =================
 
-Project Description
+## Project Description
 
 -------------------
 
 This project combines the power of Docker and Python to create a simple, efficient, and lightweight QR code generator. It generates a QR code as a PNG file containing a URL. When scanned with a phone camera, the QR code directs the user to a specified website, in this case, a GitHub homepage.
 
-Features
+## Features
 
 --------
 
@@ -18,7 +18,7 @@ Features
 
 -   Simple and Efficient: A user-friendly interface that performs efficiently.
 
-Getting Started
+## Getting Started
 
 ---------------
 
@@ -78,4 +78,4 @@ Additionally logging is included in the code.
 
 The following is a sample log message:
 
-![Log message](./logs/application.log)
+![Log message](./log_screenshot.png)
